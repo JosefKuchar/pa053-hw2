@@ -1,0 +1,9 @@
+[project]
+name = "pa053-2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "zeep>=4.3.1",
+]
